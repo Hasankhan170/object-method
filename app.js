@@ -68,9 +68,34 @@
 
 // Q : 3
 
+// function Record(name,age,city,email){
+//     this.name = name;
+//     this.age = age;
+//     this.city = city;
+//     this.email = email;
+// }
+
+// var record1 = new Record("hasan",20,"karachi","new york");
+// var record2 = new Record("ahad",20,"lahores","new york");
+
+// console.log(record1.name);
+// console.log(record1.age);
+// console.log(record1.city);
+// console.log(record1.email);
 
 
 
+// console.log(record2.name);
+// console.log(record2.age);
+// console.log(record2.city);
+// console.log(record2.email);
+
+// DONE 
+
+
+// Q : 4
+
+// NOT DONE 
 
 
 
